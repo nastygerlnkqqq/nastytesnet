@@ -1,0 +1,8 @@
+git clone ssh://git@gitlab.lc:23/develop/test.git test
+Cloning into 'test'...
+remote: Counting objects: 1832, done.
+remote: Compressing objects: 100% (1430/1430), done.
+remote: Total 1832 (delta 276), reused 1824 (delta 275)
+Receiving objects: 100% (1832/1832), 179.14 MiB | 91.22 MiB/s, done.
+Resolving deltas: 100% (276/276), done.
+Checking connectivity... done.
